@@ -2,21 +2,16 @@
 
 I'm an aspiring Java Backend Developer passionate about building scalable and efficient backend applications using Java and Spring Boot.
 
-I'm currently focused on Backend Development, REST APIs, Multithreading, WebMethods Integration, System Design, Data Structures & Algorithms, and learning Kafka & AWS.
-
 ## 💻 Tech Stack
 
 - Java 8+
 - Spring Boot
-- MySQL
 - REST APIs
 - Microservices
+- MySQL
 - Kafka
 - AWS
 - Git & GitHub
-- Postman
-- Maven
-- WebMethods
 
 ## 📚 Currently Learning
 
