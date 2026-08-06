@@ -29,7 +29,7 @@ I'm currently focused on Backend Development, REST APIs, Multithreading, WebMeth
 ## 🚀 Featured Projects
 
 - **ThreadBoost** – Demonstrates Blocking and Non-Blocking execution using Java Multithreading and ExecutorService.
-- More backend projects coming soon.
+
 
 ## 🎯 Career Objective
 
@@ -37,5 +37,5 @@ I'm continuously improving my backend development skills by building real-world 
 
 ## 📫 Connect with Me
 
-- LinkedIn: <Your LinkedIn URL>
-- Email: <Your Email>
+- LinkedIn: <https://www.linkedin.com/in/shubham-sen-java-developer/>
+- Email: <shubhamsen659@gmail.com>
