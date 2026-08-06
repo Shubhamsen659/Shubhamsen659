@@ -1,36 +1,41 @@
-# Hey there! 👋
+# Hi there, I'm Shubham Sen 👋
 
-I'm Shubham Sen, an aspiring Java Backend Developer from India.
+I'm an aspiring Java Backend Developer passionate about building scalable and efficient backend applications using Java and Spring Boot.
 
-I enjoy building backend applications using Java and Spring Boot while exploring scalable software architecture and multithreading.
-
-I'm currently learning System Design, Microservices, WebMethods Integration, and Data Structures & Algorithms to strengthen my software engineering skills.
+I'm currently focused on Backend Development, REST APIs, Multithreading, WebMethods Integration, System Design, Data Structures & Algorithms, and learning Kafka & AWS.
 
 ## 💻 Tech Stack
 
-- Java
+- Java 8+
 - Spring Boot
+- MySQL
 - REST APIs
-- SQL
-- Maven
+- Microservices
+- Kafka
+- AWS
 - Git & GitHub
+- Postman
+- Maven
 - WebMethods
-- Multithreading
 
-## 🚀 Currently Working On
+## 📚 Currently Learning
 
-- Java Backend Development
-- Spring Boot Projects
+- Kafka
+- AWS
 - System Design
-- DSA & Problem Solving
+- Data Structures & Algorithms
+- WebMethods Integration
 
-## 📌 Goals
+## 🚀 Featured Projects
 
-- Build scalable backend applications
-- Contribute to open-source projects
-- Continuously improve my software engineering skills
+- **ThreadBoost** – Demonstrates Blocking and Non-Blocking execution using Java Multithreading and ExecutorService.
+- More backend projects coming soon.
+
+## 🎯 Career Objective
+
+I'm continuously improving my backend development skills by building real-world projects and learning modern Java technologies to become a skilled Software Engineer.
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/shubham-sen-java-developer/
-- Email: shubhamsen659@gmail.com
+- LinkedIn: <Your LinkedIn URL>
+- Email: <Your Email>
