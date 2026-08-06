@@ -32,5 +32,5 @@ I'm currently learning System Design, Microservices, WebMethods Integration, and
 
 ## 📫 Connect with Me
 
-- LinkedIn: (Add your LinkedIn profile)
-- Email: (Add your email)
+- LinkedIn: https://www.linkedin.com/in/shubham-sen-java-developer/
+- Email: shubhamsen659@gmail.com
